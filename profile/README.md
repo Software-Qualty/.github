@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Pasukan Huru Hara Software Quality Assurance 🐱‍👤
+Pasukan Huru Hara Software Quality Assurance - Takjil Hunter🐱‍👤
 
 | No | Nama                    |   Laporan QA  |
 |----|-------------------------|---------------|
